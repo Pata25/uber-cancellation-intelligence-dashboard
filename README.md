@@ -5,8 +5,6 @@
 
 ## Business Problem
 
-## Business Problem
-
 When does a rider become likely to cancel an Uber ride?
 
 This project analyses ride-level data to identify the operational factors driving cancellations and revenue loss.
