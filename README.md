@@ -1,7 +1,10 @@
 # 🚗 Uber Cancellation Intelligence Dashboard
 
-Live Dashboard
-## 🔗 https://your-streamlit-url.streamlit.app
+## Live Dashboard
+
+[Open Interactive Dashboard](https://your-streamlit-url.streamlit.app)
+
+## Business Problem
 
 ## Business Problem
 
