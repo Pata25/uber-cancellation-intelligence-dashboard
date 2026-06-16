@@ -1,7 +1,7 @@
 # 🚗 Uber Cancellation Intelligence Dashboard
 
 ## Live Dashboard
-[Open Interactive Dashboard](https://uber-cancellation-intelligence-dashboard-izw3csypkbmbhai9kmpt7.streamlit.app/)
+[Open Dashboard](https://uber-cancellation-intelligence-dashboard-izw3csypkbmbhai9kmpt7.streamlit.app/)
 
 ## Business Problem
 
