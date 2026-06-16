@@ -32,9 +32,6 @@ This project analyses ride-level data to identify the operational factors drivin
 
 SQL • PostgreSQL • Python • Pandas • Streamlit • Plotly
 
-## Dashboard Preview
-
-(Add screenshots here)
 
 ## Business Recommendations
 
