@@ -1,0 +1,21 @@
+driver_id,driver_name,city_id,avg_rating,total_trips
+1,Carlos Mendez,1,4.8,1250
+2,Angela Foster,1,4.7,890
+3,Robert Kim,1,4.9,2100
+4,Maria Santos,2,4.6,780
+5,Thomas Wright,2,4.8,1560
+6,Linda Chen,2,4.9,2340
+7,James Miller,3,4.7,1100
+8,Patricia Davis,3,4.8,950
+9,Charles Wilson,3,4.6,680
+10,Barbara Moore,4,4.9,1890
+11,Richard Taylor,4,4.7,1230
+12,Dorothy Anderson,4,4.8,1450
+13,Joseph Thomas,5,4.6,870
+14,Susan Jackson,5,4.8,1120
+15,William White,5,4.7,990
+16,Margaret Harris,1,4.5,650
+17,Mark Martin,2,4.8,1380
+18,Nancy Garcia,3,4.7,820
+19,Steven Martinez,4,4.9,2050
+20,Betty Robinson,5,4.6,710
