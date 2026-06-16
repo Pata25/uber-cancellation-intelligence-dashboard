@@ -2,7 +2,7 @@
 
 ## Live Dashboard
 
-[Open Interactive Dashboard](https://your-streamlit-url.streamlit.app)
+[[Open Interactive Dashboard](https://your-streamlit-url.streamlit.app)](https://uber-cancellation-intelligence-dashboard-izw3csypkbmbhai9kmpt7.streamlit.app/)
 
 ## Business Problem
 
