@@ -32,6 +32,19 @@ This project analyses ride-level data to identify the operational factors drivin
 
 SQL • PostgreSQL • Python • Pandas • Streamlit • Plotly
 
+## SQL Analysis
+
+Key business insights were generated using PostgreSQL queries covering:
+
+- Cancellation rate analysis
+- Cancellation reason analysis
+- ETA impact analysis
+- Surge pricing analysis
+- Risk segment analysis
+- City-level analysis
+- Revenue loss estimation
+
+SQL queries are available in the `/sql` directory.
 
 ## Business Recommendations
 
