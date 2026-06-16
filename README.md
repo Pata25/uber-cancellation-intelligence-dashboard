@@ -47,4 +47,3 @@ SQL • PostgreSQL • Python • Pandas • Streamlit • Plotly
 ## Author
 
 Patrali Mondal
-Aspiring Data Scientist
